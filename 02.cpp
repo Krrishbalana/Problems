@@ -11,6 +11,24 @@
 // Print a single integer — the minimum number of moves needed to make the matrix beautiful.
 
 
+// Examples
+// input
+// 0 0 0 0 0
+// 0 0 0 0 1
+// 0 0 0 0 0
+// 0 0 0 0 0
+// 0 0 0 0 0
+// output
+// 3
+// input
+// 0 0 0 0 0
+// 0 0 0 0 0
+// 0 1 0 0 0
+// 0 0 0 0 0
+// 0 0 0 0 0
+// output
+// 1
+
 
 
 #include <iostream>
